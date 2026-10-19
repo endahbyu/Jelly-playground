@@ -1,0 +1,6 @@
+{
+  "name": "Melon Jelly Knife",
+  "description": "Interactive 3D watermelon jelly slice simulation with real-time XPBD physics, deformation, and knife slicing in WebGPU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
